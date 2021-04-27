@@ -80,7 +80,6 @@ for i, word in enumerate(text):
 
 text
 #%%
-
 from sklearn.feature_extraction.text import CountVectorizer
 
 # vectorize tokens
